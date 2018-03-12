@@ -18,7 +18,7 @@ https://gregbopp.com/acs
 A big thank you to the following resources that helped me get over different hurdles along the way:
 
 * dabblet.com for showing me how to successfully offset a border
-  * http://dabblet.com/gist/4474765 - Offset border
+  * http://dabblet.com/gist/4474765
 * picsum.photos for the random background images on the details pages
   * https://picsum.photos/
   
