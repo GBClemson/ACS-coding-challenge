@@ -1,26 +1,23 @@
-acs-coding-challenge
-Responsive web app that offers hiking and weather information for some of the top waterfalls in South Carolina.
+# acs-coding-challenge
+Responsive web app buiilt using create-react-app for an ACS Technologies coding challenge.
 
-See it live at:
-https://gbclemson.github.io/Neighborhood-Map/
+### See it live at: ###
+https://gregbopp.com/acs
 
-To Successfully Run the application
-You must have an active internet connection as this web app connects to google maps as well as the weather underground api.
-You must have all of the folders and files contained in this repository
-Open index.html in a browser and the application will launch
-Warning: while testing / checking out the app it is important to remember that this Weather Underground key only allows up to 10 calls to the API per minute. Any more and it could be disabled for the rest of the day.
+#### To Successfully Run the application locally ####
+1. You must have an active internet connection as this web app connects to an api.
+2. You must extract all of the folders and files contained in this zip file to a folder on your computer
+3. cd to the folder that contains the contents of this zip file
+4. open a terminal window and type the following: npm run start
 
-Features
-Fully responsive
-Map and Places info from google maps API
-Weather data from Weather Underground
-Slick Slider to control how much weather data can be seen based on display size
-When a display is too small it will place the weather data on the sidebar below the locations
-Thanks
+#### Features ####
+* Fully responsive
+* Info fetched from custom API
+
+#### Thanks ####
 A big thank you to the following resources that helped me get over different hurdles along the way:
 
-Andrew Wodendaal - Google Maps Centering on window resize
-https://andrewodendaal.com/keep-google-map-v3-centered-when-browser-is-resized/
-Stack overflow for enlightening me about the .done function and how to use the panBy method
-https://stackoverflow.com/questions/16076009/confused-on-jquery-ajax-done-function
-https://stackoverflow.com/questions/3473367/how-to-offset-the-center-of-a-google-maps-api-v3-in-pixels
+* dabblet.com for showing me how to successfully offset a border
+  * http://dabblet.com/gist/4474765 - Offset border
+* picsum.photos for the random background images on the details pages
+  * https://picsum.photos/
