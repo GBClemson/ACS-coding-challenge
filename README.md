@@ -21,3 +21,5 @@ A big thank you to the following resources that helped me get over different hur
   * http://dabblet.com/gist/4474765 - Offset border
 * picsum.photos for the random background images on the details pages
   * https://picsum.photos/
+  
+  #### And finally, THANK YOU to ACS Tchnologies for allowing me to participate in this project and teh interview process, I hope that this will give you confidence to allow me to be an intern in the coming months! ####
